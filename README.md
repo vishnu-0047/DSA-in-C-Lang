@@ -13,9 +13,4 @@ Contains collection of DSA problems. Includes implementation of arrays, linked l
 - Stacks_Queues: Stack & Queue implementations
 - Sorting: Bubble, Selection, Insertion, Quick Sort
 
-## Screenshots / Example Output
-Add console screenshots of program output here.
 
-## Future Work
-- Add more complex problems from competitive programming
-- Add explanation and time complexity notes for each program
